@@ -16,7 +16,7 @@ First of all, we created the “2019-08-citibike-trip-data” dataset, which we 
 
 The final state of the tripduration column is as follows.
 #### Table 1. Tripduration Column as Datetime 
-![Screen Shot 2022-12-22 at 6 37 20 PM](https://user-images.githubusercontent.com/26927158/209248439-74aff86e-929f-4c5e-9821-c0d2f28ec842.png)
+<img width="1102" alt="Screen Shot 2022-12-22 at 6 42 23 PM" src="https://user-images.githubusercontent.com/26927158/209248698-7cb265f2-e986-4023-aead-d9b047f78f56.png">
 Later, we exported our data and renamed it as adjusted. Adjected data means; improve coverage, classification, timing and valuation of the data; conform to an accounting and recording basis; or. address data quality differences in compiling specific data sets.
 To visualize the adjusted citibike trip data dataset, we uploaded it to the Tableau public environment and then used visualization techniques in accordance with the dataset we have. These visualization techniques include line, circle, heatmap, and bar graphics. 
 
