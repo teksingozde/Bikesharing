@@ -12,7 +12,11 @@ The customer will give a sales pitch in support of the idea of a bike sharing pr
 - Tableau public 2022. 3
 
 ## Overview of the Analysis  
-First of all, we created the “2019-08-citibike-trip-data” dataset, which we obtained from https://s3.amazonaws.com/tripdata/index.html, in the form of a data frame with the pandas library on Jupyter Notebook. After creating the DataFrame, we determined the data types and the names of the columns. The important point is, we changed the "tripduration" column, which is integer data type, to datetime. Later, we exported our data and renamed it as adjusted. Adjected data means; improve coverage, classification, timing and valuation of the data; conform to an accounting and recording basis; or. address data quality differences in compiling specific data sets.
+First of all, we created the “2019-08-citibike-trip-data” dataset, which we obtained from https://s3.amazonaws.com/tripdata/index.html, in the form of a data frame with the pandas library on Jupyter Notebook. After creating the DataFrame, we determined the data types and the names of the columns. The important point is, we changed the "tripduration" column, which is integer data type, to datetime. 
+The final state of the tripduration column is as follows.
+Table 1. Tripduration Column as Datetime 
+![Screen Shot 2022-12-22 at 6 37 20 PM](https://user-images.githubusercontent.com/26927158/209248439-74aff86e-929f-4c5e-9821-c0d2f28ec842.png)
+Later, we exported our data and renamed it as adjusted. Adjected data means; improve coverage, classification, timing and valuation of the data; conform to an accounting and recording basis; or. address data quality differences in compiling specific data sets.
 To visualize the adjusted citibike trip data dataset, we uploaded it to the Tableau public environment and then used visualization techniques in accordance with the dataset we have. These visualization techniques include line, circle, heatmap, and bar graphics. 
 
 ## Results
