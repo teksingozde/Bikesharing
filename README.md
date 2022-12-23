@@ -39,7 +39,7 @@ Graph 3 is organized specifically for the structure of the heatmap graph. In the
 As is known, graph 4 is called heatmap graph. The main thing in the heatmap chart is to rank the numerical value from the least to the highest, and to darken the color with the lowest numerical degree correct, while the color with the least is lighter. So in our heatmap chart, we will focus on the lightest colors to determine the least and the darkest color to determine the most arrow values. Graph 4 presents the graphic image on the condition that it is based on every hour of the day according to the genders. Here, when we focus on the region with the darkest color, we can see the time period and day when male users generally make the most active trips at 6 pm on Thursdays. It is also observed that the number of trips during this period is 30,749. In the heatmap scale, which is located in the upper right corner, it is confirmed that this value is the highest number.
 
 #### Graph 5. User Trips by Gender by Weekday
-<img width="884" alt="Users Trips by Gender by Weekday" src="https://user-images.githubusercontent.com/26927158/209246633-c398b5ea-b19f-4f9f-8354-7b8564eaf448.png">
+<img width="899" alt="Screen Shot 2022-12-22 at 9 49 37 PM" src="https://user-images.githubusercontent.com/26927158/209267399-179b684f-aa30-42b2-8eef-c7a95a0091dc.png">
 User Trips by Gender by Weekday heatmap graphic includes classification as user type and gender. User type; They are in the form of customer and subscriber. According to this heatmap graphic, if we interpret the darkest color, subscriber men use citi bikes more intensely on Thursdays. The number of these people is 259,316.
 
 #### Graph 6. Number of Trips w/Bike ID
