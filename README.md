@@ -9,13 +9,14 @@ The customer will give a sales pitch in support of the idea of a bike sharing pr
 #### Other Sources:
 - Python 3. 9. 12
 - Jupyter Notebook 6. 4. 8
-- Tableau public 2022.3
+- Tableau public 2022. 3
 
 ## Overview of the Analysis  
 First of all, we created the “2019-08-citibike-trip-data” dataset, which we obtained from https://s3.amazonaws.com/tripdata/index.html, in the form of a data frame with the pandas library on Jupyter Notebook. After creating the DataFrame, we determined the data types and the names of the columns. The important point is, we changed the "tripduration" column, which is integer data type, to datetime. Later, we exported our data and renamed it as adjusted. Adjected data means; improve coverage, classification, timing and valuation of the data; conform to an accounting and recording basis; or. address data quality differences in compiling specific data sets.
 To visualize the adjusted citibike trip data dataset, we uploaded it to the Tableau public environment and then used visualization techniques in accordance with the dataset we have. These visualization techniques include line, circle, heatmap, and bar graphics. 
 
 ## Results
+You can access all of the graphs below from the link : https://public.tableau.com/app/profile/teksingozde/viz/NYCCitiBikeAnalysis_16717457932040
 #### Graph 1. Checkout Times for Users
 <img width="898" alt="Screen Shot 2022-12-22 at 3 13 25 PM" src="https://user-images.githubusercontent.com/26927158/209246334-c971ee82-39df-42cf-991e-26c68b3c2d4a.png">
 The chart above shows how long the bike has been used. The region, which is generally called the peak point, is seen as 5 minutes. In general, the number of trips used for 5 minutes is 146,752.
@@ -50,23 +51,4 @@ On the top stops graphic, there are the names of the stops, the total number of 
 
 ## Summary
 In general, it can be easily seen that the most valuable part of a work is visualization. With the help of visualization techniques, more than one data can be compared in a table and thought analytically, and a useful study can be created.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
